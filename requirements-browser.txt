@@ -1,0 +1,4 @@
+# Optional browser diagnostics; tested development environment.
+# The recorder itself uses only the Python standard library.
+playwright==1.62.0
+Pillow==12.1.1
